@@ -1,0 +1,3 @@
+admin login
+Email: admin@restaurant.com
+Password: admin123
